@@ -4,6 +4,9 @@
 
 This repository contains the source code for a simple yet valuable Task Reminder App for Android. The app is designed to help users keep track of their tasks by providing features such as task registration, displaying tasks in a list, and sending reminders through notifications.
 
+![Screenshot (280)](https://github.com/PremSagar2002/SimpleToDoApp/assets/94881520/94e27c40-8007-4d22-a13e-13f42c3627e0)
+
+
 ## Features
 
 1. **Task Registration:** Users can register new tasks, including setting the date and time for scheduling the job.
