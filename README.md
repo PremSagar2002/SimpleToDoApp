@@ -43,7 +43,7 @@ Follow these steps to start working on the Android Task Reminder App:
 - XML
 - SQLite Database
 
-#screenshots
+# screenshots
 
 
 
