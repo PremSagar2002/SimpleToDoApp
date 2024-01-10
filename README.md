@@ -44,6 +44,9 @@ Follow these steps to start working on the Android Task Reminder App:
 - SQLite Database
 
 #screenshots
+
+
+
 ![Screenshot 2024-01-10 174244](https://github.com/PremSagar2002/SimpleToDoApp/assets/94881520/da7fb4c7-0ae3-4c3e-a74d-1ef6340f3652)
 
 
